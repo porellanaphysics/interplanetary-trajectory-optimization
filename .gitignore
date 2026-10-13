@@ -1,0 +1,28 @@
+# Binaries and compilation outputs
+*.o
+*.mod
+*.so
+*.exe
+marte
+pruebaSim
+salida.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+.env/
+
+# Large simulation coordinate dumps (> 10MB)
+coordenadas/
+orbitaCoordenada/
+coordenadas.txt
+coordenadas_N2_gen5.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
