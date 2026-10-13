@@ -161,5 +161,9 @@ python3 representar_mejor_orbita.py
 
 ## Author & License
 
-Developed by **Pablo Orellana Chornyak** (Department of Physics, Universidad de Granada).  
+Developed by **[Pablo Orellana Chornyak](https://github.com/porellanaphysics)**  
+- 🎓 *M.Sc. Student in Space Science and Technology*, Universidad de Alcalá (UAH, Alcalá de Henares).  
+- 🎓 *B.Sc. in Physics (Graduado en Física)*, Universidad de Granada (UGR).  
+- 📬 **Email**: [pablo.orellana.physics@gmail.com](mailto:pablo.orellana.physics@gmail.com) | **LinkedIn**: [linkedin.com/in/p-orellana](https://linkedin.com/in/p-orellana)  
+
 Licensed under the [MIT License](LICENSE).
