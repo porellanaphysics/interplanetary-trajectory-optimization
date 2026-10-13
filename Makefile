@@ -18,3 +18,4 @@ run: marte
 
 clean:
 	rm -f marte pruebaSim *.o *.mod *.so salida.log
+
